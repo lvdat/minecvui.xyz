@@ -5,7 +5,6 @@
 ## ℹ Thông tin
 
 * [Giới thiệu](thong-tin/gioi-thieu.md)
-* [Quy định](thong-tin/quy-dinh.md)
 
 ## 🖥 Máy chủ
 
