@@ -12,6 +12,7 @@
 
 ## 💻 Cụm máy chủ
 
+* [🌎 SMP](cum-may-chu/smp.md)
 * [Lobby Hub](cum-may-chu/lobby-hub.md)
 * [Normal Survival Hub](cum-may-chu/normal-survival-hub.md)
 * [Skyblock Hub](cum-may-chu/skyblock-hub.md)

@@ -11,4 +11,4 @@ coverY: 0
 * <mark style="color:orange;">**minevui.xyz**</mark>
 * <mark style="color:orange;">**mc.minevui.xyz**</mark>
 
-Để có thể sử dụng voice chat, tham gia thảo luận, trò chuyện với thành viên server và Admin, vui lòng truy cập Discord chính thức của MineVui tại [https://discord.minevui.xyz](https://discord.minevui.xyz)
+Để tham gia thảo luận, trò chuyện với thành viên server và Admin, vui lòng truy cập Discord chính thức của MineVui tại [https://discord.minevui.xyz](https://discord.minevui.xyz)
