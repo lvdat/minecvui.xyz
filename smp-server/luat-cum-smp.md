@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Địa chỉ Server
+# Luật cụm SMP
 
 Để vào được server chính thức, vui lòng truy cập một trong các địa chỉ dưới đây
 

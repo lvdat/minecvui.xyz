@@ -9,10 +9,9 @@
 ## 🖥 Máy chủ
 
 * [Địa chỉ Server](may-chu/dia-chi-server.md)
+* [Luật chung](may-chu/luat-chung.md)
 
-## 💻 Cụm máy chủ
+## 🌎 SMP SERVER
 
-* [🌎 SMP](cum-may-chu/smp.md)
-* [Lobby Hub](cum-may-chu/lobby-hub.md)
-* [Normal Survival Hub](cum-may-chu/normal-survival-hub.md)
-* [Skyblock Hub](cum-may-chu/skyblock-hub.md)
+* [Giới thiệu](smp-server/gioi-thieu.md)
+* [Luật cụm SMP](smp-server/luat-cum-smp.md)
