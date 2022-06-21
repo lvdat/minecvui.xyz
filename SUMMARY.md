@@ -5,11 +5,8 @@
 ## ℹ Thông tin
 
 * [Giới thiệu](thong-tin/gioi-thieu.md)
-
-## 🖥 Máy chủ
-
-* [Địa chỉ Server](may-chu/dia-chi-server.md)
-* [Luật chung](may-chu/luat-chung.md)
+* [Địa chỉ Server](thong-tin/dia-chi-server.md)
+* [Luật chung](thong-tin/luat-chung.md)
 
 ## 🌎 SMP SERVER
 
