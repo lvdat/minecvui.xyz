@@ -10,6 +10,8 @@ _Các luật trong trang này sẽ áp dụng lên tất cả các cụm máy ch
 
 ### Client
 
+Có thể sử dụng client PE để vào server, khuyến khích dùng phiên bản mới nhất!
+
 Khuyến khích sử dụng client Vanilla để tham gia máy chủ (client không mod).
 
 Đối với client Mod, khuyến khích sử dụng Forge (+ Optifine) để tối ưu hoá.

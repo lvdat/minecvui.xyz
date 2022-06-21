@@ -6,3 +6,9 @@ coverY: 0
 
 # Luật cụm SMP
 
+_Các luật trong trang này sẽ áp dụng cho cụm SMP_
+
+## Discord
+
+* Tài khoản tham gia cụm SMP yêu cầu phải liên kết với Discord để có thể sử dụng voice chat. Xem hướng dẫn liên kết ở [#lien-ket-discord](huong-dan.md#lien-ket-discord "mention")&#x20;
+* Việc sử dụng voice chat khi đang chơi bình thường không bắt buộc, nhưng bắt buộc khi Admin/Staff yêu cầu. Xem hướng dẫn sử dụng ở [#su-dung-voice-chat](huong-dan.md#su-dung-voice-chat "mention")
