@@ -10,7 +10,8 @@ Khi bạn online, nhắn tin trong các kênh chat, kết nối trong các kênh
 * Level 7 - 10: IRON
 * Level 11 - 15: COPPER
 * Level 16 - 21: GOLD
-* Level 22 - 28: EMERALD
-* Level 29 - 36: DIAMOND
-* Level 37 - 45: NETHERITE
-* Level 46+: BEDROCK&#x20;
+* Level 22 - 28: LAPIS LAZULI
+* Level 29 - 36: EMERALD
+* Level 37 - 45: DIAMOND
+* Level 46 - 55: NETHERITE
+* Level 56+: BEDROCK&#x20;
