@@ -45,7 +45,7 @@ Phần lớn các cụm được phát triển trên phiên bản 1.18.2, nhưng
 ### Chat trên bảng chat cộng đồng
 
 * Không chat nội dung vi phạm thuần phong mỹ tục, văn hoá Việt Nam, không xúc phạm chính trị, thô tục hay chửi thề, nội dung gây khó chịu,... -> Nội dung chat liên quan đến xúc phạm chính trị, dân tộc, tôn giáo, vùng miền sẽ bị **BAN IP vĩnh viễn ngay lập tức**
-* Không spam lên bảng chat
+* Không spam lên bảng chat, không dùng global chat (/g) khi không cần thiết, không dùng CAPLOCKS.
 * Không tranh chấp cá nhân trên bảng chat cộng đồng, vui lòng xử lý qua tin nhắn riêng (dùng lệnh /msg). Nếu vi phạm sẽ xử lý tất cả người trong cuộc. Nếu bạn bị quấy rối hay gây sự hãy báo cho Staff đang online kiểm tra và trợ giúp.
 * Không quảng cáo server khác: xử lý với trường hợp ghi đầy đủ IP (\*.com, \*.net,...), trường hợp nhắc tên server khác nhiều lần cũng sẽ bị xử lý.
 * Không xúc phạm admin/staff, nếu bạn có bức xúc về Admin, staff hãy liên hệ **Owner** server để hỗ trợ bạn nhé!
