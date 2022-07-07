@@ -15,6 +15,12 @@
 * [Luật cụm SMP](smp-server/luat-cum-smp.md)
 * [Hướng dẫn](smp-server/huong-dan.md)
 
+## 🌎 SKYBLOCK SERVER
+
+* [Giới thiệu](skyblock-server/gioi-thieu.md)
+* [Luật cụm Skyblock](skyblock-server/luat-cum-skyblock.md)
+* [Hướng dẫn](skyblock-server/huong-dan.md)
+
 ## 🌎 Discord
 
 * [Role trong server](discord/role-trong-server.md)
