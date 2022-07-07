@@ -7,6 +7,7 @@
 * [Giới thiệu](thong-tin/gioi-thieu.md)
 * [Địa chỉ Server](may-chu/dia-chi-server.md)
 * [📔 Luật chung](may-chu/luat-chung.md)
+* [Role VIP](thong-tin/role-vip.md)
 
 ## 🌎 SMP SERVER
 
